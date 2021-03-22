@@ -22,7 +22,6 @@ if not '.txt' in filename:
 
 with open(filename) as infile:
     for line in infile:
-        #res = re.match(r'\ ?(\d+:\d+:\d+) .+ (\w+): "(.+)" (\w+)@(.+)', line)
         
         #header lines per module
         res = re.match(r' *Users of (\w+): .*', line)
