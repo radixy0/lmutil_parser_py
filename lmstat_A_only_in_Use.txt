@@ -1,0 +1,52 @@
+lmutil - Copyright (c) 1989-2019 Flexera. All Rights Reserved.
+Flexible License Manager status on Mon 3/22/2021 16:01
+
+[Detecting lmgrd processes...]
+License server status: 28000@belnspseflex01
+    License file(s) on belnspseflex01: C:\FLEXLM1\Licenses\SELicense_belnspseflex01.lic:C:\FLEXLM1\Licenses\ugslmd_belnspseflex01_08-Jan-2021.lic:
+
+belnspseflex01: license server UP (MASTER) v11.16.4
+
+Vendor daemon status (on belnspseflex01):
+
+     selmd: UP v11.14.1
+Feature usage info:
+
+Users of seembeddedclient:  (Total of 30 licenses issued;  Total of 1 license in use)
+
+  "seembeddedclient" v222.0, vendor: ugslmd, expiry: 07-jan-2022
+  vendor_string: For Internal Siemens PLM Use Only
+  floating license
+
+    infodba decgnvsrv decgnvsrv0.0 (v220.0) (belnspseflex01/28000 512), start Mon 3/22 15:51
+
+Users of solidedgepremium:  (Total of 30 licenses issued;  Total of 2 licenses in use)
+
+  "solidedgepremium" v222.0, vendor: ugslmd, expiry: 07-jan-2022
+  vendor_string: For Internal Siemens PLM Use Only
+  floating license
+
+    melaun PL1ATLNZ0196NB PL1ATLNZ0196NB0.0 (v221.0) (belnspseflex01/28000 804), start Mon 3/22 15:13
+    infodba decgnvsrv decgnvsrv0.0 (v220.0) (belnspseflex01/28000 612), start Mon 3/22 15:51
+
+    ugslmd: UP v11.16.4
+Feature usage info:
+
+Users of sereqmgmt:  (Total of 20 licenses issued;  Total of 2 licenses in use)
+
+  "sereqmgmt" v222.0, vendor: ugslmd, expiry: 07-jan-2022
+  vendor_string: For Internal Siemens PLM Use Only
+  floating license
+
+    melaun PL1ATLNZ0196NB PL1ATLNZ0196NB0.0 (v221.0) (belnspseflex01/28000 704), start Mon 3/22 15:13
+    infodba decgnvsrv decgnvsrv0.0 (v220.0) (belnspseflex01/28000 1008), start Mon 3/22 15:51
+
+Users of solidedgembd:  (Total of 20 licenses issued;  Total of 1 license in use)
+
+  "solidedgembd" v222.0, vendor: ugslmd, expiry: 07-jan-2022
+  vendor_string: For Internal Siemens PLM Use Only
+  floating license
+
+    melaun PL1ATLNZ0196NB PL1ATLNZ0196NB0.0 (v221.0) (belnspseflex01/28000 1218), start Mon 3/22 15:13
+
+
